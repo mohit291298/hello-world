@@ -1,2 +1,3 @@
 # hello-world
 My first repository on GitHub.
+I love programming and want to explore more...
